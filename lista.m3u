@@ -44,3 +44,62 @@ http://etc12.xyz:900/3145831961/0544683977/187554
 http://etc12.xyz:900/3145831961/0544683977/187555
 #EXTINF:-1,ES| M+ LALIGA 3 FHD
 http://etc12.xyz:900/3145831961/0544683977/187556
+#EXTINF:-1 tvg-name="Movistar F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movistar F1
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48807
+
+#EXTINF:-1 tvg-name="Movistar F1 opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movistar F1 2
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48918
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", VEVO 2K
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/251
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 FHD [H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30281
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/261
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 SD
+http://pfsv.io:80/pedroguilherme12353/4354357/267
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/T",ESPN 3 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/254
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/T",ESPN 3 FHD[H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30277
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/T",ESPN 3 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/258
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/T",ESPN 3 SD
+http://pfsv.io:80/pedroguilherme12353/4354357/268
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",ESPN 4 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/255
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="LINK_LOGO",ESPN 4 FHD[H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30283
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",ESPN 4 HD
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/1",Premiere Club [4K]
+http://pfsv.io:80/pedroguilherme12353/4354357/584
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/525
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 FHD [H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30284
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/531
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 SD
+http://pfsv.io:80/pedroguilherme12353/4354357/538
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/526
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3  FHD [H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30285
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 HD
+http://pfsv.io:80/pedroguilherme12353/4354357/532
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 SD
+http://pfsv.io:80/pedroguilherme12353/4354357/539
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/527
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 FHD [H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30288
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 HD
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/362
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas FHD[H265]
+http://pfsv.io:80/pedroguilherme12353/4354357/30200
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas HD
+http://pfsv.io:80/pedroguilherme12353/4354357/388
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas SD
