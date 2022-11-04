@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="TV ABERTA",Globo RJ
+http://api.magiaiptv.com/live/800349/713534/m2_kzeKgKsjyTCBUMl4_720p
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png" group-title="TV ABERTA",SBT NACIONAL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
+
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91314.ts
+
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
+
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36991.ts
+
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="FILMES E SÉRIES",HBO BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36964.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",CARTOON NETWORK BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36927.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/512px-Disney_channel_2019.png" group-title="INFANTIL",DISNEY CHANNEL BRASIL
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36921.ts
+
+#EXTINF:-1,ES| DAZN LA LIGA 1 FHD
+http://etc12.xyz:900/3145831961/0544683977/400440766
+#EXTINF:-1,ES| DAZN LA LIGA 2 FHD
+http://etc12.xyz:900/3145831961/0544683977/400440765
+#EXTINF:-1,ES| M+ LALIGATV BAR FHD
+http://etc12.xyz:900/3145831961/0544683977/400267408
+#EXTINF:-1,ES| M+ LALIGA FHD
+http://etc12.xyz:900/3145831961/0544683977/165885
+#EXTINF:-1,ES| M+ LALIGA 1 FHD
+http://etc12.xyz:900/3145831961/0544683977/187554
+#EXTINF:-1,ES| M+ LALIGA 2 FHD
+http://etc12.xyz:900/3145831961/0544683977/187555
+#EXTINF:-1,ES| M+ LALIGA 3 FHD
+http://etc12.xyz:900/3145831961/0544683977/187556
