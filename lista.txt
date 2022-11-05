@@ -52,6 +52,8 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48918
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/R",ESPN FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/250
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 FHD
 http://pfsv.io:80/pedroguilherme12353/4354357/251
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 FHD [H265]
@@ -102,4 +104,40 @@ http://pfsv.io:80/pedroguilherme12353/4354357/362
 http://pfsv.io:80/pedroguilherme12353/4354357/30200
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas HD
 http://pfsv.io:80/pedroguilherme12353/4354357/388
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas SD
+
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png",SporTV 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16751
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/365fc6d09ecab42eb99b787a6df6477b.png",SporTV 3 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16752
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png",SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16753
+
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16757
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16758
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tctouchb.png",Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16759
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png",TNT HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16760
+
+#EXTINF:-1 group-title="CANAIS: 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png",COMBATE 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31032
+
+#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108
+#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png",DISCOVERY SCIENCE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31111
+#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png",DISCOVERY TURBO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31115
+
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/3",Globo News FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/512
+#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31105
+
+#EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png",HBO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31464
+
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png",AMC HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16692
