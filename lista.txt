@@ -9,14 +9,15 @@ http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36945.ts
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png" group-title="TV ABERTA",BAND SÃO PAULO
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41530.ts
 
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/h",Band Sport FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/247
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91314.ts
 
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
 
-#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
-http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SÉRIES",AXN
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/36991.ts
@@ -52,6 +53,12 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48918
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/R0WscKRS/vevo2k.png" group-title="MUSICA", VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/7",SporTV HD
+http://pfsv.io:80/pedroguilherme12353/4354357/556
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/5",SporTV 2 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/553
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://p6.vc/6",SporTV 3 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/554
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/R",ESPN FHD
 http://pfsv.io:80/pedroguilherme12353/4354357/250
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://p6.vc/S",ESPN 2 FHD
@@ -105,39 +112,61 @@ http://pfsv.io:80/pedroguilherme12353/4354357/30200
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo TV Minas HD
 http://pfsv.io:80/pedroguilherme12353/4354357/388
 
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png",SporTV 2 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16751
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/365fc6d09ecab42eb99b787a6df6477b.png",SporTV 3 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16752
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png",SporTV 1 HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16753
 
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png",Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16757
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png",Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16758
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tctouchb.png",Telecine Touch HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16759
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png",TNT HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16760
-
-#EXTINF:-1 group-title="CANAIS: 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png",COMBATE 4K
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31032
-
-#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108
-#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6860c35d5f46884944f224c1b0370ad2.png",DISCOVERY SCIENCE FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31111
-#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed542b4a969f744da2e53a4199d58739.png",DISCOVERY TURBO HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31115
 
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://p6.vc/3",Globo News FHD
 http://pfsv.io:80/pedroguilherme12353/4354357/512
-#EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31105
 
-#EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png",HBO FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31464
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/J",Telecine Action FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/562
 
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png",AMC HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16692
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/P",Telecine Cult FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/567
+
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/K",Telecine Fun FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/563
+
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/L",Telecine Pipoca FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/564
+
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/M",Telecine Premium FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/565
+
+
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/N",Telecine Touch FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/566
+
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/9",Discovery Channel [4K]
+http://pfsv.io:80/pedroguilherme12353/4354357/585
+#EXTINF:-1 group-title="Canais | 4K",Discovery Home&Health [4K]
+http://pfsv.io:80/pedroguilherme12353/4354357/50866
+#EXTINF:-1 group-title="Canais | 4K",Discovery Turbo [4K]
+http://pfsv.io:80/pedroguilherme12353/4354357/50869
+
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://p6.vc/B",GNT FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/102
+
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/eLo",AMC FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/294
+
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/U",A&E FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/293
+
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://logos.pfsv.io/hbo.png",HBO FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/471
+
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/I",HBO Plus HD
+http://pfsv.io:80/pedroguilherme12353/4354357/475
+
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://p6.vc/Z",HBO 2 FHD
+http://pfsv.io:80/pedroguilherme12353/4354357/470
+
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/dbz.jpg" group-title="DESENHOS 24 HORAS",DRAGON BALL Z
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/57682.ts
+#EXTINF:-1 group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco
+http://pfsv.io:80/pedroguilherme12353/4354357/43899
+#EXTINF:0 tvg-logo="http://desenhos24horas.orgfree.com/images/canais/simpsons.jpg" group-title="DESENHOS 24 HORAS",OS SIMPSONS
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/91745.ts
+
+
+
